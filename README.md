@@ -8,6 +8,10 @@ INTERN ID: CT06DG915
 
 DOMAIN NAME: FRONT-END WEB DEVELOPMENT
 
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 This Real-Time Chat Application is a dynamic web-based messaging platform built using WebSockets and a modern front-end framework like React.js. It enables users to send and receive messages instantly without refreshing the page, creating a smooth and interactive chat experience. The core functionality relies on WebSockets, allowing real-time, bidirectional communication between the client and server. This project is ideal for learning the fundamentals of real-time communication and front-end development using modern tools.
 
 The application features a clean, responsive user interface that adapts well to desktops, tablets, and smartphones. It supports real-time text messaging, user connection and disconnection notifications, and optional features like typing indicators and time stamps. The design is kept simple and user-friendly, focusing on seamless interaction and ease of use. This makes it suitable for integration into more complex projects like customer support systems, collaborative apps, or chat-based services.
