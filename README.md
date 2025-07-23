@@ -14,5 +14,9 @@ The application features a clean, responsive user interface that adapts well to 
 
 To get started with the project, first clone the repository to your local machine. Open the project folder in your terminal and run npm install to install all necessary dependencies. Once installation is complete, start the development server by running npm start or vite depending on the setup. If your app is connected to a WebSocket server (e.g., using Socket.IO and Node.js), ensure that the server is also running in parallel. You can now open the application in your browser and begin chatting in real time. This project serves as a hands-on example of real-time web app development and communication using modern technologies.
 
+OUTPUT:
+
+<img width="1270" height="663" alt="Image" src="https://github.com/user-attachments/assets/5c7e850a-0c9b-452f-82d3-269820cd9bec" />
+
 
 
